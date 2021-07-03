@@ -1,0 +1,16 @@
+Homework 4 Instructions.
+
+In this homework assignment, we are going to create a calculator that can only do multiplication! 
+
+This calculator will incorprate user input, functions, while loops, and if statements.
+The user will be able to input two numbers and the program will tell them the answer.
+However, once the user inputs -1 as a possible answer. The program ends.
+
+Your output needs to look exactly the same as the image, "exampleOutput".
+
+Once you have completed the assignment, you will create your own github repository, and push your completed
+assignment.
+
+Best of luck!
+
+- Jake H. Nations
